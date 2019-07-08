@@ -1,0 +1,2 @@
+android.app.Application
+com.johnallan78.XamarinForms_CheckboxTest

@@ -1,0 +1,17 @@
+﻿<Properties StartupConfiguration="{E4944F27-C377-4BB1-859F-8E85444DC99E}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="XamarinForms_CheckboxTest/MainActivity.cs">
+    <Files>
+      <File FileName="XamarinForms_CheckboxTest/MainActivity.cs" Line="36" Column="39" />
+      <File FileName="XamarinForms_CheckboxTest_Shared/TestPage.xaml" Line="9" Column="1" />
+      <File FileName="XamarinForms_CheckboxTest_Shared/TestPage.xaml.cs" Line="7" Column="6" />
+      <File FileName="XamarinForms_CheckboxTest/Properties/AndroidManifest.xml" Line="4" Column="143" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.XamarinForms__CheckboxTest__Droid AndroidDesignerPreferredDevice="Nexus 4" PreferredExecutionTarget="Android.my_device" AndroidDesignerPreferredTheme="Theme.AppCompat" />
+  <MultiItemStartupConfigurations />
+</Properties>
